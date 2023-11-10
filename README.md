@@ -1,6 +1,6 @@
-### Hi, I'm Christopher Plain 👋
+### Hi, I'm Christopher 👋
 
--   I'm a software engineer currently working at [ServiceNow](https://www.servicenow.com/)
--   I'm a former professional ballet dancer (you read that correctly)
--   You can find me on X (Twitter) [@cpplain](https://twitter.com/cpplain)
--   You can find me on LinkedIn at [christopherplain](https://www.linkedin.com/in/christopherplain/)
+- Software engineer at [ServiceNow](https://www.servicenow.com/)
+- Former professional ballet dancer (yup)
+- Occasional tweeter [@cpplain](https://twitter.com/cpplain)
+- LinkedIn lurker at [christopherplain](https://www.linkedin.com/in/christopherplain/)
